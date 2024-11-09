@@ -1,5 +1,5 @@
 # Algorithms-Visualizer
-This is a project made for the Data Structures and Algorithms course in International University with main the purpose of visualizing some algorithms. The project is finished with our initial intentions completed.
+This is a project made for the Data Structures and Algorithms course with main the purpose of visualizing some algorithms. The project is finished with our initial intentions completed.
 
 ## Pre-requisites
 This project is made with:
@@ -19,7 +19,7 @@ tsc --watch
 ``` 
 *Note*: It will auto compile from TypeScript into JavaScript everytime you save the files.
 
-If you can't run the project, you can visit here: <https://tpspace.github.io/Algorithms-Visualizer/> to see the demo.
+If you can't run the project, you can visit here: <https://algorithms-visualizer-theta.vercel.app/> to see the demo.
 
 ## Features
 ### Sorting Algorithms
